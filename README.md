@@ -4,7 +4,7 @@
 
 * A triangle pattern that starts with one star and adds one more star per line.
 * Aligned to the left side of the output.
-```  
+```  python 
 *
 **
 ***
