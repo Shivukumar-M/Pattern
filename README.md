@@ -28,56 +28,53 @@
 
 * Stars are aligned towards the right using spaces before the stars.
 * Creates a right-sloped appearance.
-
-
+```
     *
    **
   ***
  ****
 *****
-
+```
 # 4. **Inverted Left-Aligned Triangle**
 
 * Opposite of the left-aligned triangle.
 * Stars decrease, and leading spaces increase per row.
-
+```
 *****
  ****
   ***
    **
     *
-
+```
 # 5. **Pyramid Pattern**
 
 * Center-aligned triangle pattern.
 * Number of stars in each row increases in odd numbers (1, 3, 5...).
 
-
+```
     *
    ***
   *****
  *******
 *********
-
+```
 # 6. **Inverted Pyramid Pattern**
 
 * Upside-down pyramid.
 * Starts wide and decreases by 2 stars per row, center-aligned.
 
-
+```
 *********
  *******
   *****
    ***
     *
-
-
-
+```
 # 7. **Diamond Pattern**
 
 * Combination of pyramid and inverted pyramid.
 * Symmetrical pattern forming a diamond shape.
-
+```
     *
    ***
   *****
@@ -88,14 +85,15 @@
    ***
     *
 
-
+```
 # 8. **Hollow Square Pattern**
 
 * A square with stars only on the border.
 * Inside area is hollow (filled with spaces).
-
+```
 *****
 *   *
 *   *
 *   *
 *****
+```
