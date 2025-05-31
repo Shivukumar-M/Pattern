@@ -4,23 +4,24 @@
 
 * A triangle pattern that starts with one star and adds one more star per line.
 * Aligned to the left side of the output.
-'''
+```  
 *
 **
 ***
 ****
 *****
-'''
+```
 # 2. **Inverted Right-Angled Triangle (Left-Aligned)**
 
 * Starts with the maximum number of stars and reduces one per line.
 * Aligned to the left.
-
+```
 *****
 ****
 ***
 **
 *
+```
 
 
 # 3. **Left-Aligned Triangle**
