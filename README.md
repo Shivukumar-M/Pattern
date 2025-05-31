@@ -15,7 +15,7 @@
 
 * Starts with the maximum number of stars and reduces one per line.
 * Aligned to the left.
-```
+``` Python 
 *****
 ****
 ***
@@ -28,7 +28,7 @@
 
 * Stars are aligned towards the right using spaces before the stars.
 * Creates a right-sloped appearance.
-```
+``` python 
     *
    **
   ***
@@ -39,7 +39,7 @@
 
 * Opposite of the left-aligned triangle.
 * Stars decrease, and leading spaces increase per row.
-```
+``` python 
 *****
  ****
   ***
@@ -51,7 +51,7 @@
 * Center-aligned triangle pattern.
 * Number of stars in each row increases in odd numbers (1, 3, 5...).
 
-```
+``` python 
     *
    ***
   *****
@@ -63,7 +63,7 @@
 * Upside-down pyramid.
 * Starts wide and decreases by 2 stars per row, center-aligned.
 
-```
+``` python 
 *********
  *******
   *****
@@ -74,7 +74,7 @@
 
 * Combination of pyramid and inverted pyramid.
 * Symmetrical pattern forming a diamond shape.
-```
+``` python 
     *
    ***
   *****
@@ -90,7 +90,7 @@
 
 * A square with stars only on the border.
 * Inside area is hollow (filled with spaces).
-```
+``` python 
 *****
 *   *
 *   *
